@@ -1,0 +1,3 @@
+﻿  Main.c
+D:\Работа\ЯзыкСи_самообразование\SimpleBot\SimpleBot\Main.c(12,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  SimpleBot.vcxproj -> D:\Работа\ЯзыкСи_самообразование\SimpleBot\Debug\SimpleBot.exe

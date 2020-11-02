@@ -1,0 +1,4 @@
+D:\Учёба\ЯзыкСи_самообразование\HelloWorld\Debug\HelloWorld.exe
+D:\Учёба\ЯзыкСи_самообразование\HelloWorld\Debug\HelloWorld.pdb
+D:\Работа\ЯзыкСи_самообразование\HelloWorld\Debug\HelloWorld.exe
+D:\Работа\ЯзыкСи_самообразование\HelloWorld\Debug\HelloWorld.pdb

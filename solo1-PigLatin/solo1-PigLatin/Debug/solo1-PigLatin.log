@@ -1,0 +1,4 @@
+﻿  Main.c
+D:\Работа\ЯзыкСи_самообразование\solo1-PigLatin\solo1-PigLatin\Main.c(22,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Работа\ЯзыкСи_самообразование\solo1-PigLatin\solo1-PigLatin\Main.c(53,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  solo1-PigLatin.vcxproj -> D:\Работа\ЯзыкСи_самообразование\solo1-PigLatin\Debug\solo1-PigLatin.exe

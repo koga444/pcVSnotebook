@@ -1,0 +1,4 @@
+﻿D:\Programirovanie\Visual Studio 2019\Visual Studio IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ProverkaProstoti_FunctionVetvlenie.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Main.c
+D:\Работа\ЯзыкСи_самообразование\4-ProverkaProstoti_FunctionVetvlenie\ProverkaProstoti_FunctionVetvlenie\Main.c(25,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  ProverkaProstoti_FunctionVetvlenie.vcxproj -> D:\Работа\ЯзыкСи_самообразование\4-ProverkaProstoti_FunctionVetvlenie\Debug\4-ProverkaProstoti_FunctionVetvlenie.exe

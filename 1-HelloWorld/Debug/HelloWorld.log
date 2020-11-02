@@ -1,0 +1,3 @@
+﻿  Main.c
+D:\Работа\ЯзыкСи_самообразование\HelloWorld\Main.c(5,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  HelloWorld.vcxproj -> D:\Работа\ЯзыкСи_самообразование\HelloWorld\Debug\HelloWorld.exe
