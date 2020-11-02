@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\DISK D\Работа\ЯзыкСи_самообразование\SoloLearn-SpyLife\SoloLearn-SpyLife\Main.c(23,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\DISK D\Работа\ЯзыкСи_самообразование\SoloLearn-SpyLife\SoloLearn-SpyLife\Main.c(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\DISK D\Работа\ЯзыкСи_самообразование\SoloLearn-SpyLife\SoloLearn-SpyLife\Main.c(48,20): warning C4018: <: несоответствие типов со знаком и без знака
+  SoloLearn-SpyLife.vcxproj -> C:\DISK D\Работа\ЯзыкСи_самообразование\SoloLearn-SpyLife\Debug\SoloLearn-SpyLife.exe
